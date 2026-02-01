@@ -468,7 +468,3 @@ We thank all the researchers who have made their datasets publicly available to 
 <p align="center">
   <i>If you find this collection helpful, please consider giving it a ⭐!</i>
 </p>
-
----
-
-**Last Updated:** February 2025
