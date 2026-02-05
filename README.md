@@ -1,4 +1,4 @@
-# 🌙 Awesome Low-Light Image & Video Datasets
+# 🌙 Awesome Low-Light Video Enhancement Datasets
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
